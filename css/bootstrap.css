@@ -1087,10 +1087,14 @@ h1,
 h2,
 .h2 {
   font-size: 30px;
+  font-family: "Montserrat";
+  line-height: 40px;
+
 }
 h3,
 .h3 {
   font-size: 24px;
+  font-family: "Montserrat";
 }
 h4,
 .h4 {
