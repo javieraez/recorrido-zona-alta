@@ -80,9 +80,12 @@ body{
 }
 
 .row{
-    margin-top: 50px;
+   padding-top: 180px;
 }
 
+.row2{
+    margin-top: 10px;
+}
 .top15{
     margin-top: 10%;
 }
@@ -160,6 +163,8 @@ width: 100%;
 }
 .margin-top3{
     margin-top: 25%;
+}
+
 }
 .index2{
     z-index: 2;
