@@ -130,6 +130,11 @@ body{
     font-style: italic;
     line-height: 30px;
 }
+.fuentes{
+    font-size:12px;
+    float: right;
+
+}
 
 span{
     font-size: 20px;
