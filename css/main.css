@@ -97,6 +97,10 @@ body{
     padding-top: 15px;
 }
 
+.row5{
+    padding-top: 1800px;
+}
+
 .maspading{
     padding-left: 9%;
     padding-right: 9%;
@@ -111,20 +115,18 @@ body{
     font-size: 18px;
 }
 .txtintro p{
-    line-height: 33px; 
+    line-height: 100px; 
 }
 .txtpoema{
-    font-size: 
+    white-space: pre;
+    line-height: 45px;
+}
 
-}
-.txtpoema p{
-    line-height: 100px;
-}
 .txtcita{
     font-size: 
 }
 .txtcita p{
-    line-height: 
+ 
 }
 .cita{
     font-style: italic;
