@@ -101,6 +101,9 @@ body{
     padding-top: 1800px;
 }
 
+.row6{
+    padding-top: 20px;
+}
 .maspading{
     padding-left: 9%;
     padding-right: 9%;
@@ -116,7 +119,7 @@ body{
     font-size: 18px;
 }
 .txtintro p{
-    line-height: 100px; 
+    line-height: 30px; 
 }
 .txtpoema{
     white-space: pre;
