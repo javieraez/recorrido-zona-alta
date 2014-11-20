@@ -105,6 +105,7 @@ body{
     padding-left: 9%;
     padding-right: 9%;
 }
+
 /*TEXTO*/
 
 .texto-centrado{
@@ -146,12 +147,15 @@ span{
 
 /* FIN TEXTO*/
 .total{
-    width: 100%;
-    
+    width: 100%;  
 }
+
 .nopadding{
     padding-left: 0px;
     padding-right: 0px;
+}
+.nopadding2{
+    padding: 0px;
 }
 .imagen100 img{
 width: 100%;
