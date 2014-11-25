@@ -121,6 +121,8 @@ body{
 }
 .txtintro p{
     line-height: 27px; 
+    
+    
 }
 .txtpoema{
     white-space: pre;
@@ -136,12 +138,13 @@ body{
 .cita{
     font-style: italic;
     line-height: 30px;
+
 }
 .fuentes{
     font-size:12px;
     float: right;
 
-}
+}}
 
 span{
     font-size: 20px;
@@ -169,6 +172,7 @@ position: absolute;
 }
 .imagen100 img{
 width: 100%;
+height: auto;
 }
 
 .arriba{
@@ -192,6 +196,7 @@ width: 100%;
 .margin-top4 {
     margin-top: 35%;
 }
+
 .index2{
     z-index: 2;
     position: absolute;
@@ -201,9 +206,11 @@ width: 100%;
     position: absolute;
 }
 .rotation{
+transform:rotate(25deg);
+}
+.rotation2{
 transform:rotate(-25deg);
 }
-
 .masabajo{
     padding-top: 50px;
 }
