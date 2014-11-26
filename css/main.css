@@ -111,7 +111,13 @@ body{
 }
 
 /*TEXTO*/
-
+.justifytext{
+    text-align:justify;
+   
+}
+.justifytext2{
+     text-align: normal;
+}
 .texto-centrado{
     text-align: center;
     /*border: 2px solid black; */
@@ -121,46 +127,27 @@ body{
 }
 .txtintro p{
     line-height: 27px; 
-    
 }
-
-
-
-
-
 .txtnormal {
-    font-size: 16px
+    font-size: 16px;
     font-family: "Merriweather";
     line-height: 32px;
-
-
 }
-
 .txtpoema{
     white-space: pre;
     line-height: 40px;
-    color: negro al 50%
-
+    color: #7f7f7f;
 }
-
 .cita{
     font-style: italic;
-    line-height: 37px;
-    color:;
-
+    line-height: 30px;
+    color:#406E82;
 }
 .fuentes{
     font-size:12px;
     float: right;
-    color:;
-
+    color:#406E82;
 }
-
-
-
-
-
-
 
 span{
     font-size: 20px;
@@ -191,15 +178,6 @@ width: 100%;
 height: auto;
 }
 
-.arriba{
-   margin-top: -350px;
-}
-.arriba2{
-   margin-top: -80%;
-}
-.arriba3{
-   margin-top: -500px;
-}
 .margin-top1{
     margin-top: 200px;
 }
@@ -212,7 +190,9 @@ height: auto;
 .margin-top4 {
     margin-top: 35%;
 }
-
+.-margin{
+    margin-top: -15%
+}
 .index2{
     z-index: 2;
     position: absolute;

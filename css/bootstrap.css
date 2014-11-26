@@ -1080,10 +1080,9 @@ h6 .small,
 }
 h1,
 .h1 {
-  font-size: 42px;
+  font-size: 30px;
   color: #333;
   font-family: "Montserrat";
-  line-height: 60px;
 }
 h2,
 .h2 {
