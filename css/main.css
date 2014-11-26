@@ -138,10 +138,11 @@ body{
     line-height: 40px;
     color: #7f7f7f;
 }
-.cita{
+blockquote{
     font-style: italic;
     line-height: 30px;
     color:#406E82;
+    border: none;
 }
 .fuentes{
     font-size:12px;
