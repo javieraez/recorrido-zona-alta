@@ -122,29 +122,45 @@ body{
 .txtintro p{
     line-height: 27px; 
     
-    
-}
-.txtpoema{
-    white-space: pre;
-    line-height: 45px;
 }
 
-.txtcita{
-    font-size: 
+
+
+
+
+.txtnormal {
+    font-size: 16px
+    font-family: "Merriweather";
+    line-height: 32px;
+
+
 }
-.txtcita p{
- 
+
+.txtpoema{
+    white-space: pre;
+    line-height: 40px;
+    color: negro al 50%
+
 }
+
 .cita{
     font-style: italic;
-    line-height: 30px;
+    line-height: 37px;
+    color:;
 
 }
 .fuentes{
     font-size:12px;
     float: right;
+    color:;
 
-}}
+}
+
+
+
+
+
+
 
 span{
     font-size: 20px;
