@@ -194,6 +194,9 @@ height: auto;
 .-margin{
     margin-top: -15%
 }
+.-margin2{
+    margin-top: -25%
+}
 .index2{
     z-index: 2;
     position: absolute;
@@ -206,6 +209,9 @@ height: auto;
 transform:rotate(25deg);
 }
 .rotation2{
+transform:rotate(-47deg);
+}
+.rotation3{
 transform:rotate(-25deg);
 }
 .masabajo{
