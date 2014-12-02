@@ -1406,7 +1406,7 @@ pre code {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
-   border: 1px solid #DDDDDD;
+   /*border: 1px solid #DDDDDD;*/
 }
 @media (min-width: 768px) {
   .container {
